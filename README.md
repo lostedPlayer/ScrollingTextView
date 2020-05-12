@@ -1,15 +1,15 @@
 
 [![](https://jitpack.io/v/Lost-Player-dev/ScrollingTextView.svg)](https://jitpack.io/#Lost-Player-dev/ScrollingTextView)
 
-#ScrollTextView
+# ScrollTextView
 
 Android Scrolling textView with scroll effect similar to Karaoke or Teleprompter.
 
-#Screenshots
+# Screenshots
 [![](presentation.gif)
 
 
-#Gradle
+# Gradle
 How to add this library to you project:
 
 Add it in your root build.gradle at the end of repositories:
@@ -27,7 +27,7 @@ allprojects {
 	        implementation 'com.github.Lost-Player-dev:ScrollingTextView:Tag'
 	}
   
-  #Usage
+# Usage
   ```xml
 
     <com.gamadevelopment.blesimetar_applikacija.ScrollingTextView
@@ -36,7 +36,7 @@ allprojects {
         android:layout_height="match_parent"/>
 ```
 
-#Licence
+# Licence
 Do whatever you want!
 
 
