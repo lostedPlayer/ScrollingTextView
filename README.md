@@ -14,6 +14,7 @@ How to add this library to you project:
 
 Add it in your root build.gradle at the end of repositories:
 
+```
 allprojects {
 		repositories {
 			...
@@ -26,6 +27,7 @@ allprojects {
   dependencies {
 	        implementation 'com.github.Lost-Player-dev:ScrollingTextView:Tag'
 	}
+```
   
 # Usage
   ```xml
