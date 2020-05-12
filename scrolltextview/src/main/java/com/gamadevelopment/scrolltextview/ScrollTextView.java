@@ -91,7 +91,7 @@ public class ScrollTextView extends TextView implements Runnable {
     }
 
 
-    //mirror tex
+    //mirror tex//
     public void mirrorTextOnn() {
         setScaleX(-1);
         setScaleY(1);
