@@ -1,0 +1,3 @@
+rootProject.name='ScrollTextView'
+include ':app'
+include ':scrolltextview'
