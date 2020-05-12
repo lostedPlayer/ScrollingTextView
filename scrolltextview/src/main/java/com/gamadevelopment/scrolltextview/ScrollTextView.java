@@ -85,7 +85,7 @@ public class ScrollTextView extends TextView implements Runnable {
     }
 
 
-    //returns boolean state of scrolling text 
+    //returns boolean state of scrolling text
     public boolean isContinuousScrolling() {
         return continuousScrolling;
     }
