@@ -15,17 +15,13 @@ How to add this library to you project:
 Add it in your root build.gradle at the end of repositories:
 
 ```
-allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	}
-  
-  Add the dependency:
-  
-  dependencies {
-	        implementation 'com.github.Lost-Player-dev:ScrollingTextView:Tag'
+repositories {
+			
+   maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+   implementation 'com.github.Lost-Player-dev:ScrollingTextView:1.0'
 	}
 ```
   
