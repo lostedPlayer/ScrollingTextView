@@ -1,7 +1,11 @@
-# ScrollingTextView
+
 [![](https://jitpack.io/v/Lost-Player-dev/ScrollingTextView.svg)](https://jitpack.io/#Lost-Player-dev/ScrollingTextView)
+
+#ScrollTextView
+
 Android Scrolling textView with scroll effect similar to Karaoke or Teleprompter.
-Screenshots
+
+#Screenshots
 ![] (presentation.gif)
 
 
