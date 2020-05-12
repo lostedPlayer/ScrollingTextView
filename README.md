@@ -6,13 +6,14 @@
 Android Scrolling textView with scroll effect similar to Karaoke or Teleprompter.
 
 #Screenshots
-![] (presentation.gif)
+[![](presentation.gif)
 
 
 #Gradle
 How to add this library to you project:
 
 Add it in your root build.gradle at the end of repositories:
+
 allprojects {
 		repositories {
 			...
