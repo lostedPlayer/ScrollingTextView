@@ -28,7 +28,7 @@ dependencies {
 # Usage
   ```xml
 
-    <com.gamadevelopment.blesimetar_applikacija.ScrollingTextView
+    <com.github.BosnianDev.ScrollingTextView
         android:id="@+id/ScrollTextView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
