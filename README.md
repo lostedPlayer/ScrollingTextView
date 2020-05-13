@@ -1,5 +1,5 @@
 
-[![](https://jitpack.io/v/Lost-Player-dev/ScrollingTextView.svg)](https://jitpack.io/#Lost-Player-dev/ScrollingTextView)
+[![](https://jitpack.io/v/BosnianDev/ScrollingTextView.svg)](https://jitpack.io/#BosnianDev/ScrollingTextView)
 
 # ScrollTextView
 
