@@ -21,7 +21,7 @@ repositories {
 }
 
 dependencies {
-   implementation 'com.github.Lost-Player-dev:ScrollingTextView:1.0'
+  implementation 'com.github.BosnianDev:ScrollingTextView:1.0'
 	}
 ```
   
